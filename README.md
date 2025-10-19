@@ -29,4 +29,4 @@ This project demonstrates strong analytical, visualization, and storytelling ski
 
 6. Screenshots / Demos
 
-7. <img width="768" height="507" alt="Screenshot" src="https://github.com/user-attachments/assets/315c57da-9d2d-4952-b707-f514dccf37e9" />
+<img width="768" height="507" alt="Screenshot" src="https://github.com/user-attachments/assets/315c57da-9d2d-4952-b707-f514dccf37e9" />
